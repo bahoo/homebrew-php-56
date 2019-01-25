@@ -1,4 +1,4 @@
-# Hombrew tap for PHP 5.6
+# Homebrew tap for PHP 5.6
 
 ## Installation
 
